@@ -85,6 +85,8 @@
 
 ## Libraries
 
+- [Overview on Frege Wiki](https://github.com/Frege/frege/wiki/Libraries)
+
 ### Android
 
 - [FregeAndroid](https://github.com/trilogysci/FregeAndroid)
