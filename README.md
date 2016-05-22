@@ -25,6 +25,7 @@
   - [GUI](#gui)
   - [Web Frameworks](#web-frameworks)
 - [Tools](#tools-1)
+  - [IDEs](#ides)
 - [License](#license)
 
 ## Introduction
@@ -115,6 +116,9 @@
 ## Tools
 
 - [Frege REPL](http://try.frege-lang.org/)
+### IDEs
+
+- [fregIDE](https://github.com/Frege/eclipse-plugin/wiki/fregIDE-Tutorial)
 
 ## License
 
