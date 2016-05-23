@@ -59,7 +59,7 @@
 ### Questions
 
 - [Google Group](https://groups.google.com/forum/#!forum/frege-programming-language)
-- [Stackoverflow](https://stackoverflow.com/questions/tagged/frege)
+- [Stack Overflow](https://stackoverflow.com/questions/tagged/frege)
 
 ## Information
 
