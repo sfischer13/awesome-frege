@@ -7,7 +7,6 @@
 - [Introduction](#introduction)
   - [Overview](#overview)
   - [First Steps](#first-steps)
-  - [Tools](#tools)
 - [Community](#community)
   - [Chat](#chat)
   - [News](#news)
@@ -24,8 +23,9 @@
   - [Games](#games)
   - [GUI](#gui)
   - [Web Frameworks](#web-frameworks)
-- [Tools](#tools-1)
+- [Tools](#tools)
   - [IDEs](#ides)
+  - [REPLs](#repls)
 - [License](#license)
 
 ## Introduction
@@ -39,7 +39,6 @@
 
 - [Getting Started](https://github.com/Frege/frege/wiki/Getting-Started)
 
-### Tools
 
 - [Frege REPL](http://try.frege-lang.org/)
 
@@ -116,9 +115,16 @@
 ## Tools
 
 - [Frege REPL](http://try.frege-lang.org/)
+_Useful tools for developers._
+
 ### IDEs
 
 - [fregIDE](https://github.com/Frege/eclipse-plugin/wiki/fregIDE-Tutorial)
+
+### REPLs
+
+- [Console REPL](https://github.com/Frege/frege-repl)
+- [Web REPL](http://try.frege-lang.org/)
 
 ## License
 
