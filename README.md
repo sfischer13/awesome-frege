@@ -20,9 +20,10 @@
   - [Android](#android)
   - [Big Data](#big-data)
   - [Databases](#databases)
-  - [Games](#games)
   - [GUI](#gui)
   - [Web Frameworks](#web-frameworks)
+- [Sample Applications](#sample-applications)
+  - [Games](#games)
 - [Tools](#tools)
   - [IDEs](#ides)
   - [REPLs](#repls)
@@ -99,10 +100,6 @@
 
 - [Sirocco](https://github.com/fregelab/sirocco)
 
-### Games
-
-- [2048](https://github.com/tfausak/fr2048)
-
 ### GUI
 
 - [FregeFX](https://github.com/Frege/FregeFX)
@@ -111,6 +108,12 @@
 
 - [Fregelet](https://github.com/mmhelloworld/fregelet)
 - [Play with Frege](https://github.com/mmhelloworld/hello-play-frege)
+
+## Sample Applications
+
+### Games
+
+- [2048](https://github.com/tfausak/fr2048)
 
 ## Tools
 
