@@ -15,6 +15,7 @@
   - [Articles](#articles)
   - [Blogs](#blogs)
   - [Books](#books)
+  - [Documentation](#documentation)
   - [Talks](#talks)
 - [Libraries](#libraries)
   - [Android](#android)
@@ -77,6 +78,10 @@
 
 - [Frege Goodness](https://www.gitbook.com/book/dierk/fregegoodness/details)
 - [More books](https://github.com/Frege/frege/wiki/Books)
+
+### Documentation
+
+- [Frege Documentation](http://www.frege-lang.org/doc/fregedoc.html)
 
 ### Talks
 
