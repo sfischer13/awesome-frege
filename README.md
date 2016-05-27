@@ -25,6 +25,7 @@
   - [Web Frameworks](#web-frameworks)
 - [Sample Applications](#sample-applications)
   - [Games](#games)
+  - [Web](#web)
 - [Tools](#tools)
   - [IDEs](#ides)
   - [REPLs](#repls)
@@ -119,6 +120,10 @@
 ### Games
 
 - [2048](https://github.com/tfausak/fr2048)
+
+### Web
+
+- [RESTful Todo Manager](https://github.com/y-taka-23/restful-todo)
 
 ## Tools
 
