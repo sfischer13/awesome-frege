@@ -117,11 +117,17 @@
 
 ## Sample Applications
 
+_A single line of code is worth a thousand words!_
+
 ### Games
+
+_A list of games._
 
 - [2048](https://github.com/tfausak/fr2048)
 
 ### Web
+
+_A list of web applications._
 
 - [RESTful Todo Manager](https://github.com/y-taka-23/restful-todo)
 
