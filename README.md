@@ -133,7 +133,6 @@ _A list of web applications._
 
 ## Tools
 
-- [Frege REPL](http://try.frege-lang.org/)
 _Useful tools for developers._
 
 ### IDEs
@@ -142,7 +141,9 @@ _Useful tools for developers._
 
 ### REPLs
 
+
 - [Console REPL](https://github.com/Frege/frege-repl)
+- [GUI REPL](https://github.com/Dierk/frepl-gui)
 - [Web REPL](http://try.frege-lang.org/)
 
 ## License
