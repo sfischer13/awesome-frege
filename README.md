@@ -33,12 +33,18 @@
 
 ## Introduction
 
+_How to get started with Frege._
+
 ### Overview
+
+_What is Frege anyway?_
 
 - [Frege Website](https://github.com/Frege/frege)
 - [Differences between Frege and Haskell](https://github.com/Frege/frege/wiki/Differences-between-Frege-and-Haskell)
 
 ### First Steps
+
+_What does Frege look like?_
 
 - [Getting Started](https://github.com/Frege/frege/wiki/Getting-Started)
 
@@ -49,16 +55,22 @@
 
 ### Chat
 
+_Talk to other Frege developers!_
+
 - [Gitter](https://gitter.im/Frege/frege)
 - [IRC](https://webchat.freenode.net/?channels=%23frege)
 
 ### News
+
+_Stay up-to-date!_
 
 - [Twitter](https://twitter.com/fregelang)
 - [reddit](https://www.reddit.com/r/frege)
 - [Changelog](https://github.com/Frege/frege/wiki/New-or-Changed-Features)
 
 ### Questions
+
+_Do you have questions about Frege?_
 
 - [Google Group](https://groups.google.com/forum/#!forum/frege-programming-language)
 - [Stack Overflow](https://stackoverflow.com/questions/tagged/frege)
