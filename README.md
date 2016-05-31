@@ -79,6 +79,8 @@ _Do you have questions about Frege?_
 
 ### Articles
 
+_A list of news/magazine articles about Frege._
+
 - [Frege: a Haskell-like Language for the JVM](https://www.infoq.com/news/2015/08/frege-haskell-for-jvm)
 - [More articles](https://github.com/Frege/frege/wiki/Articles)
 
@@ -89,14 +91,20 @@ _Do you have questions about Frege?_
 
 ### Books
 
+_A list of books about Frege._
+
 - [Frege Goodness](https://www.gitbook.com/book/dierk/fregegoodness/details)
 - [More books](https://github.com/Frege/frege/wiki/Books)
 
 ### Documentation
 
+_Frege API documentation._
+
 - [Frege Documentation](http://www.frege-lang.org/doc/fregedoc.html)
 
 ### Talks
+
+_A list of talks about Frege._
 
 - [Frege, a Haskell for the JVM by Dierk König](https://www.youtube.com/watch?v=1P1-HXNfFPc)
 - [FregeDay: Roadmap for resolving differences between Haskell and Frege (Ingo Wechsung)](https://www.youtube.com/watch?v=o2qwNlVeyA4)
@@ -104,13 +112,19 @@ _Do you have questions about Frege?_
 
 ## Libraries
 
+_A list of Frege libraries._
+
 - [Overview on Frege Wiki](https://github.com/Frege/frege/wiki/Libraries)
 
 ### Android
 
+_A list of Android libraries._
+
 - [FregeAndroid](https://github.com/trilogysci/FregeAndroid)
 
 ### Big Data
+
+_A list of libraries for big data._
 
 - [Apache Spark with Frege](https://github.com/sw1sh/frege-spark)
 
