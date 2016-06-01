@@ -94,6 +94,7 @@ _A list of news/magazine articles about Frege._
 _A list of books about Frege._
 
 - [Frege Goodness](https://www.gitbook.com/book/dierk/fregegoodness/details)
+- [Learn You a Frege for Great Good!](https://github.com/y-taka-23/learn-you-a-frege)
 - [More books](https://github.com/Frege/frege/wiki/Books)
 
 ### Documentation
