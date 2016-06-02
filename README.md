@@ -86,6 +86,8 @@ _A list of news/magazine articles about Frege._
 
 ### Blogs
 
+_A list of blogs about Frege._
+
 - [Frege Programming Language](http://fregepl.blogspot.com)
 - [Dierk König's Blog](http://www.canoo.com/blog/tag/frege/)
 
@@ -131,9 +133,13 @@ _A list of libraries for big data._
 
 ### Databases
 
+_A list of database bindings._
+
 - [Sirocco](https://github.com/fregelab/sirocco)
 
 ### GUI
+
+_A list of GUI libraries._
 
 - [FregeFX](https://github.com/Frege/FregeFX)
 
@@ -148,13 +154,13 @@ _A single line of code is worth a thousand words!_
 
 ### Games
 
-_A list of games._
+_A list of sample games._
 
 - [2048](https://github.com/tfausak/fr2048)
 
 ### Web
 
-_A list of web applications._
+_A list of sample web applications._
 
 - [RESTful Todo Manager](https://github.com/y-taka-23/restful-todo)
 
