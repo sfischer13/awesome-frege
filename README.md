@@ -145,6 +145,8 @@ _A list of GUI libraries._
 
 ### Web Frameworks
 
+_A list of web frameworks._
+
 - [Fregelet](https://github.com/mmhelloworld/fregelet)
 - [Play with Frege](https://github.com/mmhelloworld/hello-play-frege)
 
@@ -166,7 +168,7 @@ _A list of sample web applications._
 
 ## Tools
 
-_Useful tools for developers._
+_A list of useful tools for developers._
 
 ### IDEs
 
