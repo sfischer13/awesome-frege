@@ -7,6 +7,7 @@
 - [Introduction](#introduction)
   - [Overview](#overview)
   - [First Steps](#first-steps)
+  - [Comparisons](#comparisons)
 - [Community](#community)
   - [Chat](#chat)
   - [News](#news)
@@ -48,8 +49,13 @@ _What does Frege look like?_
 
 - [Getting Started](https://github.com/Frege/frege/wiki/Getting-Started)
 
+### Comparisons
 
-- [Frege REPL](http://try.frege-lang.org/)
+_How does Frege compare to other programming languages?_
+
+- [Differences between Frege and Haskell](https://github.com/Frege/frege/wiki/Differences-between-Frege-and-Haskell)
+- [What are the main differences between Scala and Frege (in programming paradigms)?](https://stackoverflow.com/questions/17905322/what-are-the-main-differences-between-scala-and-frege-in-programming-paradigms)
+
 
 ## Community
 
