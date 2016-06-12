@@ -105,6 +105,10 @@ _A list of books about Frege._
 - [Learn You a Frege for Great Good!](https://github.com/y-taka-23/learn-you-a-frege)
 - [More books](https://github.com/Frege/frege/wiki/Books)
 
+### Conferences
+
+- [ICFP](http://www.icfpconference.org/)
+
 ### Documentation
 
 _Frege API documentation._
