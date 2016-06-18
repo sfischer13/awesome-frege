@@ -30,6 +30,7 @@
 - [Tools](#tools)
   - [IDEs](#ides)
   - [REPLs](#repls)
+  - [Unit Testing](#unit-testing)
 - [License](#license)
 
 ## Introduction
@@ -193,6 +194,10 @@ _[REPL](https://en.wikipedia.org/wiki/Read%E2%80%93eval%E2%80%93print_loop)s are
 - [Console REPL](https://github.com/Frege/frege-repl)
 - [GUI REPL](https://github.com/Dierk/frepl-gui)
 - [Web REPL](http://try.frege-lang.org/)
+
+### Unit Testing
+
+- [FrUnit](https://github.com/melrief/FrUnit)
 
 ## License
 
