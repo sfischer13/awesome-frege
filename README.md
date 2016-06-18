@@ -45,7 +45,7 @@ _What is Frege anyway?_
 
 ### First Steps
 
-_What does Frege look like?_
+_I want to write some Frege code!_
 
 - [Getting Started](https://github.com/Frege/frege/wiki/Getting-Started)
 
@@ -182,10 +182,13 @@ _A list of useful tools for developers._
 
 ### IDEs
 
+_[Integrated development environment](https://en.wikipedia.org/wiki/Integrated_development_environment)s can make you more productive._
+
 - [fregIDE](https://github.com/Frege/eclipse-plugin/wiki/fregIDE-Tutorial)
 
 ### REPLs
 
+_[REPL](https://en.wikipedia.org/wiki/Read%E2%80%93eval%E2%80%93print_loop)s are great for quick testing._
 
 - [Console REPL](https://github.com/Frege/frege-repl)
 - [GUI REPL](https://github.com/Dierk/frepl-gui)
