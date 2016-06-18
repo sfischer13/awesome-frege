@@ -28,6 +28,7 @@
   - [Games](#games)
   - [Web](#web)
 - [Tools](#tools)
+  - [Build Tools](#build-tools)
   - [IDEs](#ides)
   - [REPLs](#repls)
   - [Unit Testing](#unit-testing)
@@ -180,6 +181,13 @@ _A list of sample web applications._
 ## Tools
 
 _A list of useful tools for developers._
+
+### Build Tools
+
+- [Leiningen](http://leiningen.org/)
+- [Leiningen Template](https://github.com/Frege/frege-lein-template)
+- [Gradle](http://gradle.org/)
+- [Maven](https://maven.apache.org/)
 
 ### IDEs
 
