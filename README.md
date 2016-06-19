@@ -149,6 +149,7 @@ _A list of libraries for big data._
 _A list of database bindings._
 
 - [Sirocco](https://github.com/fregelab/sirocco)
+- [JDBC in Frege](https://github.com/DellCliff/frege-dbc)
 
 ### GUI
 
