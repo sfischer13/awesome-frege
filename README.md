@@ -123,6 +123,7 @@ _A list of talks about Frege._
 
 - [Frege, a Haskell for the JVM by Dierk König](https://www.youtube.com/watch?v=1P1-HXNfFPc)
 - [FregeDay: Roadmap for resolving differences between Haskell and Frege (Ingo Wechsung)](https://www.youtube.com/watch?v=o2qwNlVeyA4)
+- [ICFP Videos](https://www.youtube.com/channel/UCwRL68qZFfub1Ep1EScfmBw)
 - [More talks](https://github.com/Frege/frege/wiki/Talks)
 
 ## Libraries
