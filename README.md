@@ -16,6 +16,8 @@
   - [Articles](#articles)
   - [Blogs](#blogs)
   - [Books](#books)
+  - [Conferences](#conferences)
+  - [Courses](#courses)
   - [Documentation](#documentation)
   - [Talks](#talks)
 - [Libraries](#libraries)
@@ -110,6 +112,10 @@ _A list of books about Frege._
 ### Conferences
 
 - [ICFP](http://www.icfpconference.org/)
+
+### Courses
+
+- [Introduction to Functional Programming](https://www.edx.org/course/introduction-functional-programming-delftx-fp101x-0)
 
 ### Documentation
 
