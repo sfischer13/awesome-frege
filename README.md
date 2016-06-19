@@ -160,6 +160,7 @@ _A list of GUI libraries._
 
 _A list of web frameworks._
 
+- [Chinook](https://github.com/fregelab/chinook)
 - [Fregelet](https://github.com/mmhelloworld/fregelet)
 - [Play with Frege](https://github.com/mmhelloworld/hello-play-frege)
 
