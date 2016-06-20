@@ -45,7 +45,7 @@ _How to get started with Frege._
 _What is Frege anyway?_
 
 - [Frege Website](https://github.com/Frege/frege)
-- [Differences between Frege and Haskell](https://github.com/Frege/frege/wiki/Differences-between-Frege-and-Haskell)
+- [Wikipedia entry](https://en.wikipedia.org/wiki/Frege_(programming_language))
 
 ### First Steps
 
