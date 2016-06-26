@@ -52,6 +52,9 @@ _What is Frege anyway?_
 _I want to write some Frege code!_
 
 - [Getting Started](https://github.com/Frege/frege/wiki/Getting-Started)
+- [Frege REPL](http://try.frege-lang.org/)
+- [Example Code](https://github.com/Frege/frege/tree/master/examples)
+- [Project Template](https://github.com/tfausak/fregexample)
 
 ### Comparisons
 
