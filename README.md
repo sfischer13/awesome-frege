@@ -200,6 +200,7 @@ _A list of useful tools for developers._
 - [Leiningen Template](https://github.com/Frege/frege-lein-template)
 - [Gradle](http://gradle.org/)
 - [Maven](https://maven.apache.org/)
+- [Gofre](https://github.com/NickSeagull/gofre)
 
 ### IDEs
 
