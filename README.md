@@ -8,6 +8,7 @@
   - [Overview](#overview)
   - [First Steps](#first-steps)
   - [Comparisons](#comparisons)
+- [People](#people)
 - [Community](#community)
   - [Chat](#chat)
   - [News](#news)
