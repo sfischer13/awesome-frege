@@ -63,6 +63,10 @@ _How does Frege compare to other programming languages?_
 - [Differences between Frege and Haskell](https://github.com/Frege/frege/wiki/Differences-between-Frege-and-Haskell)
 - [What are the main differences between Scala and Frege (in programming paradigms)?](https://stackoverflow.com/questions/17905322/what-are-the-main-differences-between-scala-and-frege-in-programming-paradigms)
 
+## People
+
+- [Ingo Wechsung](https://twitter.com/iwechsu)
+- [Dierk König](https://twitter.com/mittie)
 
 ## Community
 
