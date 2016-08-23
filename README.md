@@ -8,6 +8,7 @@
   - [Overview](#overview)
   - [First Steps](#first-steps)
   - [Comparisons](#comparisons)
+- [Official Websites](#official-websites)
 - [People](#people)
 - [Community](#community)
   - [Chat](#chat)
@@ -63,6 +64,12 @@ _How does Frege compare to other programming languages?_
 
 - [Differences between Frege and Haskell](https://github.com/Frege/frege/wiki/Differences-between-Frege-and-Haskell)
 - [What are the main differences between Scala and Frege (in programming paradigms)?](https://stackoverflow.com/questions/17905322/what-are-the-main-differences-between-scala-and-frege-in-programming-paradigms)
+
+## Official Websites
+
+- [Language Reference](http://www.frege-lang.org/doc/Language.pdf)
+- [Standard Library API](http://www.frege-lang.org/doc/fregedoc.html)
+- [Java Runtime API](http://www.frege-lang.org/doc/index.html)
 
 ## People
 
