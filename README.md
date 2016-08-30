@@ -41,6 +41,7 @@
   - [Unit Testing](#unit-testing)
 - [License](#license)
 
+
 ## Introduction
 
 _How to get started with Frege._
@@ -75,6 +76,7 @@ _How does Frege compare to other programming languages?_
 - [Java Runtime API](http://www.frege-lang.org/doc/index.html)
 - [FAQ](https://github.com/Frege/frege/wiki/Frequently-Asked-Questions)
 - [Wiki](https://github.com/Frege/frege/wiki)
+- [Release Notes](https://github.com/Frege/frege/wiki/New-or-Changed-Features)
 
 ## People
 
@@ -206,6 +208,7 @@ _A list of sample games._
 _A list of sample web applications._
 
 - [RESTful Todo Manager](https://github.com/y-taka-23/restful-todo)
+- [Play Framework with Frege](https://github.com/mmhelloworld/hello-play-frege)
 
 ## Tools
 
