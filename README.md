@@ -73,6 +73,8 @@ _How does Frege compare to other programming languages?_
 - [Language Reference](http://www.frege-lang.org/doc/Language.pdf)
 - [Standard Library API](http://www.frege-lang.org/doc/fregedoc.html)
 - [Java Runtime API](http://www.frege-lang.org/doc/index.html)
+- [FAQ](https://github.com/Frege/frege/wiki/Frequently-Asked-Questions)
+- [Wiki](https://github.com/Frege/frege/wiki)
 
 ## People
 
