@@ -223,6 +223,8 @@ _A list of useful tools for developers._
 
 ### Build Tools
 
+_Automatize boring tasks._
+
 - [Leiningen](http://leiningen.org/)
 - [Leiningen Template](https://github.com/Frege/frege-lein-template)
 - [Gradle](http://gradle.org/)
@@ -244,6 +246,8 @@ _[REPL](https://en.wikipedia.org/wiki/Read%E2%80%93eval%E2%80%93print_loop)s are
 - [Web REPL](http://try.frege-lang.org/)
 
 ### Unit Testing
+
+_Improve the quality of your code with unit tests._
 
 - [FrUnit](https://github.com/melrief/FrUnit)
 
