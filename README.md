@@ -29,6 +29,7 @@
   - [Android](#android)
   - [Big Data](#big-data)
   - [Databases](#databases)
+  - [Email](#email)
   - [GUI](#gui)
   - [Web Frameworks](#web-frameworks)
 - [Sample Applications](#sample-applications)
@@ -178,6 +179,12 @@ _A list of database bindings._
 
 - [Sirocco](https://github.com/fregelab/sirocco)
 - [JDBC in Frege](https://github.com/DellCliff/frege-dbc)
+
+### Email
+
+_A list of SMTP libraries._
+
+- [Frege Email](https://github.com/y-taka-23/frege-email)
 
 ### GUI
 
