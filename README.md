@@ -72,6 +72,8 @@ _How does Frege compare to other programming languages?_
 
 ## Official Websites
 
+_Resources from the Frege project._
+
 - [Language Reference](http://www.frege-lang.org/doc/Language.pdf)
 - [Standard Library API](http://www.frege-lang.org/doc/fregedoc.html)
 - [Java Runtime API](http://www.frege-lang.org/doc/index.html)
@@ -80,6 +82,8 @@ _How does Frege compare to other programming languages?_
 - [Release Notes](https://github.com/Frege/frege/wiki/New-or-Changed-Features)
 
 ## People
+
+_Important people in the Frege community._
 
 - [Ingo Wechsung](https://twitter.com/iwechsu)
 - [Dierk König](https://twitter.com/mittie)
@@ -134,9 +138,13 @@ _A list of books about Frege._
 
 ### Conferences
 
+_Academic conferences about Frege and functional programming._
+
 - [ICFP](http://www.icfpconference.org/)
 
 ### Courses
+
+_Online courses on functional programming._
 
 - [Introduction to Functional Programming](https://www.edx.org/course/introduction-functional-programming-delftx-fp101x-0)
 
