@@ -4,19 +4,21 @@
 
 *Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing. You might also like [awesome-haskell](https://github.com/krispo/awesome-haskell).*
 
+
 ## Contents
 
 
+
 - [Introduction](#introduction)
+  - [Official Websites](#official-websites)
   - [Overview](#overview)
   - [First Steps](#first-steps)
   - [Comparisons](#comparisons)
-- [Official Websites](#official-websites)
-- [People](#people)
 - [Community](#community)
   - [Chat](#chat)
   - [News](#news)
   - [Questions](#questions)
+  - [People](#people)
 - [Information](#information)
   - [Articles](#articles)
   - [Blogs](#blogs)
@@ -47,11 +49,23 @@
 
 _How to get started with Frege._
 
+### Official Websites
+
+_Resources from the Frege project._
+
+- [Language Reference](http://www.frege-lang.org/doc/Language.pdf)
+- [Standard Library API](http://www.frege-lang.org/doc/fregedoc.html)
+- [Java Runtime API](http://www.frege-lang.org/doc/index.html)
+- [FAQ](https://github.com/Frege/frege/wiki/Frequently-Asked-Questions)
+- [Wiki](https://github.com/Frege/frege/wiki)
+- [Release Notes](https://github.com/Frege/frege/wiki/New-or-Changed-Features)
+
+
 ### Overview
 
 _What is Frege anyway?_
 
-- [Frege Website](https://github.com/Frege/frege)
+- [Frege Website](https://github.com/Frege/frege) - TODO Description.
 - [Wikipedia entry](https://en.wikipedia.org/wiki/Frege_(programming_language))
 
 ### First Steps
@@ -69,24 +83,6 @@ _How does Frege compare to other programming languages?_
 
 - [Differences between Frege and Haskell](https://github.com/Frege/frege/wiki/Differences-between-Frege-and-Haskell)
 - [What are the main differences between Scala and Frege (in programming paradigms)?](https://stackoverflow.com/questions/17905322/what-are-the-main-differences-between-scala-and-frege-in-programming-paradigms)
-
-## Official Websites
-
-_Resources from the Frege project._
-
-- [Language Reference](http://www.frege-lang.org/doc/Language.pdf)
-- [Standard Library API](http://www.frege-lang.org/doc/fregedoc.html)
-- [Java Runtime API](http://www.frege-lang.org/doc/index.html)
-- [FAQ](https://github.com/Frege/frege/wiki/Frequently-Asked-Questions)
-- [Wiki](https://github.com/Frege/frege/wiki)
-- [Release Notes](https://github.com/Frege/frege/wiki/New-or-Changed-Features)
-
-## People
-
-_Important people in the Frege community._
-
-- [Ingo Wechsung](https://twitter.com/iwechsu)
-- [Dierk König](https://twitter.com/mittie)
 
 ## Community
 
@@ -111,6 +107,13 @@ _Do you have questions about Frege?_
 
 - [Google Group](https://groups.google.com/forum/#!forum/frege-programming-language)
 - [Stack Overflow](https://stackoverflow.com/questions/tagged/frege)
+
+### People
+
+_Important people in the Frege community._
+
+- [Ingo Wechsung](https://twitter.com/iwechsu)
+- [Dierk König](https://twitter.com/mittie)
 
 ## Information
 
