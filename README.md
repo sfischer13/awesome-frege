@@ -4,7 +4,7 @@
 
 *Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing. You might also like [awesome-haskell](https://github.com/krispo/awesome-haskell).*
 
-## Table of Contents
+## Contents
 
 
 - [Introduction](#introduction)
