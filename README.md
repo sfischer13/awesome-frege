@@ -173,8 +173,6 @@
 
 ### Build Tools
 
-- [Maven](https://maven.apache.org/)
-- [Gofre](https://github.com/NickSeagull/gofre)
 - [Leiningen](http://leiningen.org/) - Project automation for Frege and Clojure.
 - [Leiningen Template](https://github.com/Frege/frege-lein-template) - Template for frege-lein projects.
 - [Gofre](https://github.com/NickSeagull/gofre) - Build system for Frege.
