@@ -109,6 +109,7 @@
 ### Books
 
 - [Frege Goodness](https://www.gitbook.com/book/dierk/fregegoodness/details) - Book by Dierk König.
+- [Frege Quick Reference](https://www.gitbook.com/book/ingo60/frege-quick-reference/details) - Book by Ingo Wechsung.
 - [Learn You a Frege for Great Good!](https://github.com/y-taka-23/learn-you-a-frege) - Frege adaptation of Learn You a Haskell for Great Good!.
 - [Frege Wiki](https://github.com/Frege/frege/wiki/Books) - List of more books on the Frege wiki.
 
