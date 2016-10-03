@@ -10,10 +10,10 @@
 
 
 - [Introduction](#introduction)
-  - [Official Websites](#official-websites)
   - [Overview](#overview)
   - [First Steps](#first-steps)
   - [Comparisons](#comparisons)
+  - [Official Websites](#official-websites)
 - [Community](#community)
   - [Chat](#chat)
   - [News](#news)
@@ -25,7 +25,6 @@
   - [Books](#books)
   - [Conferences](#conferences)
   - [Courses](#courses)
-  - [Documentation](#documentation)
   - [Talks](#talks)
 - [Libraries](#libraries)
   - [Android](#android)
@@ -47,42 +46,41 @@
 
 ## Introduction
 
-_How to get started with Frege._
-
-### Official Websites
-
-_Resources from the Frege project._
-
-- [Language Reference](http://www.frege-lang.org/doc/Language.pdf)
-- [Standard Library API](http://www.frege-lang.org/doc/fregedoc.html)
-- [Java Runtime API](http://www.frege-lang.org/doc/index.html)
-- [FAQ](https://github.com/Frege/frege/wiki/Frequently-Asked-Questions)
-- [Wiki](https://github.com/Frege/frege/wiki)
-- [Release Notes](https://github.com/Frege/frege/wiki/New-or-Changed-Features)
-
+_The most important resources for beginners._
 
 ### Overview
 
 _What is Frege anyway?_
 
-- [Frege Website](https://github.com/Frege/frege) - TODO Description.
-- [Wikipedia entry](https://en.wikipedia.org/wiki/Frege_(programming_language))
+- [Frege](https://github.com/Frege/frege) - Official website.
+- [Wikipedia](https://en.wikipedia.org/wiki/Frege_(programming_language)) - Wikipedia entry about Frege.
 
 ### First Steps
 
-_I want to write some Frege code!_
+_How to get started._
 
-- [Getting Started](https://github.com/Frege/frege/wiki/Getting-Started)
-- [Frege REPL](http://try.frege-lang.org/)
-- [Example Code](https://github.com/Frege/frege/tree/master/examples)
-- [Project Template](https://github.com/tfausak/fregexample)
+- [Getting Started](https://github.com/Frege/frege/wiki/Getting-Started) - First steps with Frege on the command line.
+- [REPL](http://try.frege-lang.org/) - Edit and run Frege code on the web.
+- [Examples](https://github.com/Frege/frege/tree/master/examples) - Some code examples.
+- [Template](https://github.com/tfausak/fregexample) - Template for Frege projects.
 
 ### Comparisons
 
 _How does Frege compare to other programming languages?_
 
-- [Differences between Frege and Haskell](https://github.com/Frege/frege/wiki/Differences-between-Frege-and-Haskell)
-- [What are the main differences between Scala and Frege (in programming paradigms)?](https://stackoverflow.com/questions/17905322/what-are-the-main-differences-between-scala-and-frege-in-programming-paradigms)
+- [Frege vs. Haskell](https://github.com/Frege/frege/wiki/Differences-between-Frege-and-Haskell) - Differences between Frege and Haskell.
+- [Frege vs. Scala](https://stackoverflow.com/questions/17905322/what-are-the-main-differences-between-scala-and-frege-in-programming-paradigms) - Differences between Scala and Frege.
+
+### Official Resources
+
+_Resources from the Frege project._
+
+- [Language Reference](http://www.frege-lang.org/doc/Language.pdf) - Description of the language and its implementation.
+- [Standard Library API](http://www.frege-lang.org/doc/fregedoc.html) - Frege API documentation.
+- [Java Runtime API](http://www.frege-lang.org/doc/index.html) - Java API documentation.
+- [FAQ](https://github.com/Frege/frege/wiki/Frequently-Asked-Questions) - Frequently asked questions.
+- [Wiki](https://github.com/Frege/frege/wiki) - Official wiki.
+- [Changelog](https://github.com/Frege/frege/wiki/New-or-Changed-Features) - Official changelog.
 
 ## Community
 
