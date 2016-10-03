@@ -13,12 +13,12 @@
   - [Overview](#overview)
   - [First Steps](#first-steps)
   - [Comparisons](#comparisons)
-  - [Official Websites](#official-websites)
+  - [Official Resources](#official-resources)
 - [Community](#community)
   - [Chat](#chat)
-  - [News](#news)
   - [Questions](#questions)
-  - [People](#people)
+  - [Social Media](#social-media)
+  - [Important People](#important-people)
 - [Information](#information)
   - [Articles](#articles)
   - [Blogs](#blogs)
@@ -76,129 +76,122 @@
 
 ### Chat
 
-- [Gitter](https://gitter.im/Frege/frege)
-- [IRC](https://webchat.freenode.net/?channels=%23frege)
-
-### News
-
-- [Twitter](https://twitter.com/fregelang)
-- [reddit](https://www.reddit.com/r/frege)
-- [Changelog](https://github.com/Frege/frege/wiki/New-or-Changed-Features)
+- [Gitter](https://gitter.im/Frege/frege) - Gitter channel.
+- [IRC](https://webchat.freenode.net/?channels=%23frege) - IRC channel.
 
 ### Questions
 
+- [Google Group](https://groups.google.com/forum/#!forum/frege-programming-language) - Frege Google Group.
+- [Stack Overflow](https://stackoverflow.com/questions/tagged/frege) - Frege tag on Stack Overflow.
 
-- [Google Group](https://groups.google.com/forum/#!forum/frege-programming-language)
-- [Stack Overflow](https://stackoverflow.com/questions/tagged/frege)
+### Social Media
 
-### People
+- [Twitter](https://twitter.com/fregelang) - Official Twitter account.
+- [reddit](https://www.reddit.com/r/frege) - Frege subreddit.
 
+### Important People
 
-- [Ingo Wechsung](https://twitter.com/iwechsu)
-- [Dierk König](https://twitter.com/mittie)
+- [Ingo Wechsung](https://twitter.com/iwechsu) - Creator of the language.
+- [Dierk König](https://twitter.com/mittie) - Core contributor and Groovy expert.
 
 ## Information
 
 ### Articles
 
-- [Frege: a Haskell-like Language for the JVM](https://www.infoq.com/news/2015/08/frege-haskell-for-jvm)
-- [More articles](https://github.com/Frege/frege/wiki/Articles)
+- [InfoQ](https://www.infoq.com/news/2015/08/frege-haskell-for-jvm) - InfoQ article on Frege.
+- [Frege Wiki](https://github.com/Frege/frege/wiki/Articles) - List of more articles on the Frege wiki.
 
 ### Blogs
 
-- [Frege Programming Language](http://fregepl.blogspot.com)
-- [Dierk König's Blog](http://www.canoo.com/blog/tag/frege/)
+- [Frege Programming Language](http://fregepl.blogspot.com) - Blog of Ingo Wechsung.
+- [Frege Posts](http://www.canoo.com/blog/tag/frege/) - Blog of Dierk König.
 
 ### Books
 
-- [Frege Goodness](https://www.gitbook.com/book/dierk/fregegoodness/details)
-- [Learn You a Frege for Great Good!](https://github.com/y-taka-23/learn-you-a-frege)
-- [More books](https://github.com/Frege/frege/wiki/Books)
+- [Frege Goodness](https://www.gitbook.com/book/dierk/fregegoodness/details) - Book by Dierk König.
+- [Learn You a Frege for Great Good!](https://github.com/y-taka-23/learn-you-a-frege) - Frege adaptation of Learn You a Haskell for Great Good!.
+- [Frege Wiki](https://github.com/Frege/frege/wiki/Books) - List of more books on the Frege wiki.
 
 ### Conferences
 
-- [ICFP](http://www.icfpconference.org/)
+- [ICFP](http://www.icfpconference.org/) - International Conference on Functional Programming.
 
 ### Courses
 
-- [Introduction to Functional Programming](https://www.edx.org/course/introduction-functional-programming-delftx-fp101x-0)
-
-### Documentation
-
-- [Frege Documentation](http://www.frege-lang.org/doc/fregedoc.html)
+- [FP101x](https://www.edx.org/course/introduction-functional-programming-delftx-fp101x-0) - Introduction to Functional Programming on edX.
 
 ### Talks
 
-- [Frege, a Haskell for the JVM by Dierk König](https://www.youtube.com/watch?v=1P1-HXNfFPc)
-- [FregeDay: Roadmap for resolving differences between Haskell and Frege (Ingo Wechsung)](https://www.youtube.com/watch?v=o2qwNlVeyA4)
-- [ICFP Videos](https://www.youtube.com/channel/UCwRL68qZFfub1Ep1EScfmBw)
-- [More talks](https://github.com/Frege/frege/wiki/Talks)
+- [Overview](https://www.youtube.com/watch?v=1P1-HXNfFPc) - Frege, a Haskell for the JVM by Dierk König.
+- [Frege vs. Haskell](https://www.youtube.com/watch?v=o2qwNlVeyA4) - FregeDay: Roadmap for resolving differences between Haskell and Frege (Ingo Wechsung).
+- [ICFP Videos](https://www.youtube.com/channel/UCwRL68qZFfub1Ep1EScfmBw) - Videos about functional programming.
+- [Frege Wiki](https://github.com/Frege/frege/wiki/Talks) - List of more talks on the Frege wiki.
 
 ## Libraries
 
-- [Overview on Frege Wiki](https://github.com/Frege/frege/wiki/Libraries)
+- [Frege Wiki](https://github.com/Frege/frege/wiki/Libraries) - List of libraries on the Frege wiki.
 
 ### Android
 
-- [FregeAndroid](https://github.com/trilogysci/FregeAndroid)
+- [FregeAndroid](https://github.com/trilogysci/FregeAndroid) - Frege interface to the Android API.
 
 ### Big Data
 
-- [Apache Spark with Frege](https://github.com/sw1sh/frege-spark)
+- [Spark](https://github.com/sw1sh/frege-spark) - Apache Spark with Frege.
 
 ### Databases
 
-- [Sirocco](https://github.com/fregelab/sirocco)
-- [JDBC in Frege](https://github.com/DellCliff/frege-dbc)
+- [Sirocco](https://github.com/fregelab/sirocco) - Frege library for relational databases.
+- [frege-dbc](https://github.com/DellCliff/frege-dbc) - JDBC with Frege.
 
 ### Email
 
-- [Frege Email](https://github.com/y-taka-23/frege-email)
+- [Frege Email](https://github.com/y-taka-23/frege-email) - SMTP library for Frege.
 
 ### GUI
 
-- [FregeFX](https://github.com/Frege/FregeFX)
+- [FregeFX](https://github.com/Frege/FregeFX) - Frege bindings for JavaFX.
 
 ### Web Frameworks
 
-- [Chinook](https://github.com/fregelab/chinook)
-- [Fregelet](https://github.com/mmhelloworld/fregelet)
-- [Play with Frege](https://github.com/mmhelloworld/hello-play-frege)
+- [Chinook](https://github.com/fregelab/chinook) - Frege web framework based on SparkJava.
+- [Fregelet](https://github.com/mmhelloworld/fregelet) - Frege web framework based on servlet.
+- [Play](https://github.com/mmhelloworld/hello-play-frege) - Play framework with Frege.
 
 ## Sample Applications
 
 ### Games
 
-- [2048](https://github.com/tfausak/fr2048)
+- [2048](https://github.com/tfausak/fr2048) - A Frege clone of 2048.
 
 ### Web
 
-- [RESTful Todo Manager](https://github.com/y-taka-23/restful-todo)
-- [Play Framework with Frege](https://github.com/mmhelloworld/hello-play-frege)
+- [RESTful Todo Manager](https://github.com/y-taka-23/restful-todo) - Task list manager written in Frege.
+- [Play Framework](https://github.com/mmhelloworld/hello-play-frege) - A Play application with Frege.
 
 ## Tools
 
 ### Build Tools
 
-- [Leiningen](http://leiningen.org/)
-- [Leiningen Template](https://github.com/Frege/frege-lein-template)
-- [Gradle](http://gradle.org/)
 - [Maven](https://maven.apache.org/)
 - [Gofre](https://github.com/NickSeagull/gofre)
+- [Leiningen](http://leiningen.org/) - Project automation for Frege and Clojure.
+- [Leiningen Template](https://github.com/Frege/frege-lein-template) - Template for frege-lein projects.
+- [Gofre](https://github.com/NickSeagull/gofre) - Build system for Frege.
 
 ### IDEs
 
-- [fregIDE](https://github.com/Frege/eclipse-plugin/wiki/fregIDE-Tutorial)
+- [fregIDE](https://github.com/Frege/eclipse-plugin/wiki/fregIDE-Tutorial) - Eclipse plugin for Frege.
 
 ### REPLs
 
-- [Console REPL](https://github.com/Frege/frege-repl)
-- [GUI REPL](https://github.com/Dierk/frepl-gui)
-- [Web REPL](http://try.frege-lang.org/)
+- [Console REPL](https://github.com/Frege/frege-repl) - REPL on the console.
+- [GUI REPL](https://github.com/Dierk/frepl-gui) - A GUI based REPL.
+- [Web REPL](http://try.frege-lang.org/) - A web based REPL.
 
 ### Unit Testing
 
-- [FrUnit](https://github.com/melrief/FrUnit)
+- [FrUnit](https://github.com/melrief/FrUnit) - JUnit for Frege.
 
 ## License
 
