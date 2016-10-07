@@ -4,7 +4,7 @@ Please note that this project is released with a [Contributor Code of Conduct](c
 
 
 
-## Adding something to this list
+### Adding something to this list
 
 If you have something awesome to contribute to this list, this is how you do it.
 
@@ -17,8 +17,6 @@ You'll need a [GitHub account](https://github.com/join)!
 5. Say why you're proposing the changes, and then click on "Propose file change".
 6. Submit the [pull request](https://help.github.com/articles/using-pull-requests/)!
 
-## Updating your Pull Request
+### Updating your Pull Request
 
-Sometimes, we will ask you to edit your Pull Request before it is included. This is normally due to spelling errors or because your PR didn't match the awesome-* list guidelines.
-
-[Here](https://github.com/RichardLitt/docs/blob/master/amending-a-commit-guide.md) is a write up on how to change a Pull Request, and the different ways you can do that.
+Sometimes, we will ask you to edit your Pull Request before it is included. If you're not sure how to do that, [here is a guide](https://github.com/RichardLitt/docs/blob/master/amending-a-commit-guide.md) on how to update your Pull Request so that we can merge it.
