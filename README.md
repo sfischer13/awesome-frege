@@ -1,6 +1,6 @@
 # Awesome Frege [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
-> A curated list of awesome resources for the Frege programming language.
+> A curated list of awesome resources for the [Frege](https://en.wikipedia.org/wiki/Frege_(programming_language)) programming language.
 
 You might also like [awesome-haskell](https://github.com/krispo/awesome-haskell).*
 
