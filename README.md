@@ -4,7 +4,7 @@
 
 > Useful resources for the [Frege](https://en.wikipedia.org/wiki/Frege_(programming_language)) programming language
 
-You might also like [awesome-haskell](https://github.com/krispo/awesome-haskell).*
+You might also like [awesome-haskell](https://github.com/krispo/awesome-haskell).
 
 *Please read the [contribution guidelines](contributing.md) before contributing.*
 
