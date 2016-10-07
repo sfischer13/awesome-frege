@@ -2,7 +2,7 @@
 
 > A curated list of awesome resources for the Frege programming language.
 
-*Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing. You might also like [awesome-haskell](https://github.com/krispo/awesome-haskell).*
+You might also like [awesome-haskell](https://github.com/krispo/awesome-haskell).*
 
 *Please read the [contribution guidelines](contributing.md) before contributing.*
 
