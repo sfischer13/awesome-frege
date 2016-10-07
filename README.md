@@ -166,12 +166,12 @@ You might also like [awesome-haskell](https://github.com/krispo/awesome-haskell)
 
 ### Games
 
-- [2048](https://github.com/tfausak/fr2048) - A Frege clone of 2048.
+- [2048](https://github.com/tfausak/fr2048) - Frege clone of 2048.
 
 ### Web
 
 - [RESTful Todo Manager](https://github.com/y-taka-23/restful-todo) - Task list manager written in Frege.
-- [Play Framework](https://github.com/mmhelloworld/hello-play-frege) - A Play application with Frege.
+- [Play Framework](https://github.com/mmhelloworld/hello-play-frege) - Play application written in Frege.
 
 ## Tools
 
@@ -188,8 +188,8 @@ You might also like [awesome-haskell](https://github.com/krispo/awesome-haskell)
 ### REPLs
 
 - [Console REPL](https://github.com/Frege/frege-repl) - REPL on the console.
-- [GUI REPL](https://github.com/Dierk/frepl-gui) - A GUI based REPL.
-- [Web REPL](http://try.frege-lang.org/) - A web based REPL.
+- [GUI REPL](https://github.com/Dierk/frepl-gui) - GUI based REPL.
+- [Web REPL](http://try.frege-lang.org/) - Web based REPL.
 
 ### Unit Testing
 
