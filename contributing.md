@@ -2,7 +2,15 @@
 
 Please note that this project is released with a [Contributor Code of Conduct](code_of_conduct.md). By participating in this project you agree to abide by its terms.
 
+### Submission Guidelines
 
+Please ensure your pull request adheres to the following guidelines:
+
+- Search previous suggestions before making a new one, as yours may be a duplicate.
+- Make an individual pull request for each suggestion.
+- Use the following format: `[name](link) - Description.`
+- Link additions should be added to the bottom of the relevant section.
+- New categories or improvements to the existing categorization are welcome.
 
 ### Adding something to this list
 
