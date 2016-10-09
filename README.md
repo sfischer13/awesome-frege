@@ -138,6 +138,7 @@ You might also like [awesome-haskell](https://github.com/krispo/awesome-haskell)
 ### Android
 
 - [FregeAndroid](https://github.com/trilogysci/FregeAndroid) - Frege interface to the Android API.
+- [frege-on-android](https://github.com/ppelleti/frege-on-android) - How to use Frege on Android.
 
 ### Big Data
 
