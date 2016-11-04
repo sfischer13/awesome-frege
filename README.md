@@ -34,6 +34,7 @@ You might also like [awesome-haskell](https://github.com/krispo/awesome-haskell)
   - [Big Data](#big-data)
   - [Databases](#databases)
   - [Email](#email)
+  - [Graphics](#graphics)
   - [GUI](#gui)
   - [Web Frameworks](#web-frameworks)
 - [Sample Applications](#sample-applications)
@@ -152,6 +153,10 @@ You might also like [awesome-haskell](https://github.com/krispo/awesome-haskell)
 ### Email
 
 - [Frege Email](https://github.com/y-taka-23/frege-email) - SMTP library for Frege.
+
+### Graphics
+
+- [Frege-RayTracer](https://github.com/mchav/Frege-RayTracer) - Ray tracer in Frege.
 
 ### GUI
 
