@@ -178,6 +178,7 @@ You might also like [awesome-haskell](https://github.com/krispo/awesome-haskell)
 
 - [RESTful Todo Manager](https://github.com/y-taka-23/restful-todo) - Task list manager written in Frege.
 - [Play Framework](https://github.com/mmhelloworld/hello-play-frege) - Play application written in Frege.
+- [Fervor](https://github.com/mchav/gottlob) - Server for local directories.
 
 ## Tools
 
