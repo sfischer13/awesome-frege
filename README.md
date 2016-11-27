@@ -39,6 +39,7 @@ You might also like [awesome-haskell](https://github.com/krispo/awesome-haskell)
   - [Web Frameworks](#web-frameworks)
 - [Sample Applications](#sample-applications)
   - [Games](#games)
+  - [Media](#media)
   - [Web](#web)
 - [Tools](#tools)
   - [Build Tools](#build-tools)
@@ -173,6 +174,10 @@ You might also like [awesome-haskell](https://github.com/krispo/awesome-haskell)
 ### Games
 
 - [2048](https://github.com/tfausak/fr2048) - Frege clone of 2048.
+
+### Media
+
+- [Zwana](https://github.com/mchav/Zwana) - Piano using Java Midi.
 
 ### Web
 
