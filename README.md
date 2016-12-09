@@ -141,8 +141,8 @@ You might also like [awesome-haskell](https://github.com/krispo/awesome-haskell)
 
 - [FregeAndroid](https://github.com/trilogysci/FregeAndroid) - Frege interface to the Android API.
 - [frege-on-android](https://github.com/ppelleti/frege-on-android) - How to use Frege on Android.
-- [Frege On Android](https://github.com/mchav/FregeAndroid) - A proof of concept Android application in Frege.
-- [GeoQuiz-Frege](https://github.com/mchav/GeoQuiz-Frege) - A port of the BigNerd Ranch GeoQuiz Application in Frege.
+- [FregeAndroid](https://github.com/mchav/FregeAndroid) - Proof of concept Android application in Frege.
+- [GeoQuiz-Frege](https://github.com/mchav/GeoQuiz-Frege) - Port of the BigNerd Ranch GeoQuiz application in Frege.
 
 ### Big Data
 
