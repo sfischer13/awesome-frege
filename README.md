@@ -141,6 +141,8 @@ You might also like [awesome-haskell](https://github.com/krispo/awesome-haskell)
 
 - [FregeAndroid](https://github.com/trilogysci/FregeAndroid) - Frege interface to the Android API.
 - [frege-on-android](https://github.com/ppelleti/frege-on-android) - How to use Frege on Android.
+- [Frege On Android](https://github.com/mchav/FregeAndroid) - A proof of concept Android application in Frege.
+- [GeoQuiz-Frege](https://github.com/mchav/GeoQuiz-Frege) - A port of the BigNerd Ranch GeoQuiz Application in Frege.
 
 ### Big Data
 
@@ -183,7 +185,7 @@ You might also like [awesome-haskell](https://github.com/krispo/awesome-haskell)
 
 - [RESTful Todo Manager](https://github.com/y-taka-23/restful-todo) - Task list manager written in Frege.
 - [Play Framework](https://github.com/mmhelloworld/hello-play-frege) - Play application written in Frege.
-- [Fervor](https://github.com/mchav/gottlob) - Server for local directories.
+- [Fervor](https://github.com/mchav/fervor) - Server for local directories.
 
 ## Tools
 
