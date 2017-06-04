@@ -200,6 +200,7 @@ You might also like [awesome-haskell](https://github.com/krispo/awesome-haskell)
 ### IDEs
 
 - [fregIDE](https://github.com/Frege/eclipse-plugin/wiki/fregIDE-Tutorial) - Eclipse plugin for Frege.
+- [intellij-frege](https://github.com/carymrobbins/intellij-frege) - Frege support for IntelliJ IDEA.
 
 ### REPLs
 
