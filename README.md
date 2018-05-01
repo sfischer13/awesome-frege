@@ -93,7 +93,7 @@ You might also like [awesome-haskell](https://github.com/krispo/awesome-haskell)
 ### Social Media
 
 - [Twitter](https://twitter.com/fregelang) - Official Twitter account.
-- [reddit](https://www.reddit.com/r/frege) - Frege subreddit.
+- [reddit](https://www.reddit.com/r/frege/) - Frege subreddit.
 
 ### Important People
 
