@@ -46,7 +46,6 @@ You might also like [awesome-haskell](https://github.com/krispo/awesome-haskell)
   - [IDEs](#ides)
   - [REPLs](#repls)
   - [Unit Testing](#unit-testing)
-- [License](#license)
 
 <!-- END doctoc generated TOC please keep comment here to allow auto update -->
 
