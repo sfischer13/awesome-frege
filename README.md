@@ -1,6 +1,6 @@
 # Awesome Frege [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
-> Useful resources for the [Frege](https://en.wikipedia.org/wiki/Frege_(programming_language)) programming language
+> Useful resources for the [Frege](https://github.com/Frege/frege) programming language
 
 You might also like [awesome-haskell](https://github.com/krispo/awesome-haskell).
 
@@ -54,7 +54,6 @@ You might also like [awesome-haskell](https://github.com/krispo/awesome-haskell)
 ### Overview
 
 - [Frege](https://github.com/Frege/frege) - Official website.
-- [Wikipedia](https://en.wikipedia.org/wiki/Frege_(programming_language)) - Wikipedia entry about Frege.
 
 ### First Steps
 
