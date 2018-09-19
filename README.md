@@ -21,7 +21,6 @@ You might also like [awesome-haskell](https://github.com/krispo/awesome-haskell)
   - [Chat](#chat)
   - [Questions](#questions)
   - [Social Media](#social-media)
-  - [Important People](#important-people)
 - [Information](#information)
   - [Articles](#articles)
   - [Blogs](#blogs)
@@ -92,10 +91,6 @@ You might also like [awesome-haskell](https://github.com/krispo/awesome-haskell)
 
 - [Twitter](https://twitter.com/fregelang) - Official Twitter account.
 - [reddit](https://www.reddit.com/r/frege/) - Frege subreddit.
-
-### Important People
-
-- [Ingo Wechsung](https://twitter.com/iwechsu) - Creator of the language.
 - [Dierk König](https://twitter.com/mittie) - Core contributor and Groovy expert.
 
 ## Information
