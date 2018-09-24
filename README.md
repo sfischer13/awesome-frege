@@ -188,7 +188,6 @@ You might also like [awesome-haskell](https://github.com/krispo/awesome-haskell)
 
 - [Leiningen](http://leiningen.org/) - Project automation for Frege and Clojure.
 - [Leiningen Template](https://github.com/Frege/frege-lein-template) - Template for frege-lein projects.
-- [Gofre](https://github.com/NickSeagull/gofre) - Build system for Frege.
 - [gottlob](https://github.com/mchav/gottlob) - Build tool for Frege.
 
 ### IDEs
