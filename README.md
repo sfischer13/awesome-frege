@@ -22,8 +22,7 @@ You might also like [awesome-haskell](https://github.com/krispo/awesome-haskell)
   - [Questions](#questions)
   - [Social Media](#social-media)
 - [Information](#information)
-  - [Articles](#articles)
-  - [Blogs](#blogs)
+  - [Articles & Blogs](#articles--blogs)
   - [Books](#books)
   - [Conferences](#conferences)
   - [Courses](#courses)
@@ -96,15 +95,12 @@ You might also like [awesome-haskell](https://github.com/krispo/awesome-haskell)
 
 ## Information
 
-### Articles
+### Articles & Blogs
 
 - [InfoQ](https://www.infoq.com/news/2015/08/frege-haskell-for-jvm) - InfoQ article on Frege.
 - [Frege Wiki](https://github.com/Frege/frege/wiki/Articles) - List of more articles on the Frege wiki.
-
-### Blogs
-
 - [Frege Programming Language](http://fregepl.blogspot.com) - Blog of Ingo Wechsung.
-- [Frege Posts](http://www.canoo.com/blog/tag/frege/) - Blog of Dierk König.
+- [Frege Posts](https://www.canoo.com/blog/tag/frege/) - Blog of Dierk König.
 
 ### Books
 
