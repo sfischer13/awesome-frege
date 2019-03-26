@@ -168,6 +168,7 @@ You might also like [awesome-haskell](https://github.com/krispo/awesome-haskell)
 ### Games
 
 - [2048](https://github.com/tfausak/fr2048) - Frege clone of 2048.
+- [frech](https://github.com/Ingo60/frech) - Chess engine usable with xboard, Arena etc.
 
 ### Media
 
