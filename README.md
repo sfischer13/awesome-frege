@@ -99,6 +99,7 @@ You might also like [awesome-haskell](https://github.com/krispo/awesome-haskell)
 - [InfoQ](https://www.infoq.com/news/2015/08/frege-haskell-for-jvm) - InfoQ article on Frege.
 - [Frege Wiki](https://github.com/Frege/frege/wiki/Articles) - List of more articles on the Frege wiki.
 - [Frege Programming Language](http://fregepl.blogspot.com) - Blog of Ingo Wechsung.
+- [JAXenter](https://jaxenter.de/frege-haskell-jvm-54617) - Interview with Ingo Wechsung (German).
 
 ### Books
 
