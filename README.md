@@ -196,7 +196,6 @@ You might also like [awesome-haskell](https://github.com/krispo/awesome-haskell)
 
 - [Console REPL](https://github.com/Frege/frege-repl) - REPL on the console.
 - [GUI REPL](https://github.com/Dierk/frepl-gui) - GUI based REPL.
-- [Web REPL](http://try.frege-lang.org/) - Web based REPL.
 
 ### Unit Testing
 
